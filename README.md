@@ -1,7 +1,7 @@
-<img width="250" height="120" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 29 17" src="https://github.com/user-attachments/assets/c583148b-7152-449c-ba46-fdfde7ddc930" />
-<img width="250" height="120" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 29 07" src="https://github.com/user-attachments/assets/0baeaa82-d69a-45e9-a519-3dd01a6ab1fe" />
-<img width="250" height="120" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 29 02" src="https://github.com/user-attachments/assets/a837e486-18f4-44a8-b0bc-56c759abc501" />
-<img width="250" height="120" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 28 45" src="https://github.com/user-attachments/assets/125c60de-348f-4050-9930-aa50e4116357" />
+<img width="120" height="250" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 29 17" src="https://github.com/user-attachments/assets/c583148b-7152-449c-ba46-fdfde7ddc930" />
+<img width="120" height="250" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 29 07" src="https://github.com/user-attachments/assets/0baeaa82-d69a-45e9-a519-3dd01a6ab1fe" />
+<img width="120" height="250" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 29 02" src="https://github.com/user-attachments/assets/a837e486-18f4-44a8-b0bc-56c759abc501" />
+<img width="120" height="250" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-19 at 14 28 45" src="https://github.com/user-attachments/assets/125c60de-348f-4050-9930-aa50e4116357" />
 
 
 
